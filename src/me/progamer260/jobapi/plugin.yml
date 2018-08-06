@@ -1,0 +1,5 @@
+name: JobAPI
+version: 1.0
+main: me.progamer260.jobapi.Main
+author: Progamer260
+description: A Job API
